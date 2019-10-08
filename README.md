@@ -1,7 +1,7 @@
-# ReaTime ChatApp
+# REAL TIME CHATAPP
 > REAL TIME CHAT APPLICATION SERVICE USING SOCKETS.
 
-### Installation
+### INSTALLATION
 ----
 
 It requires [Node.js](https://nodejs.org/) v4+ to run.
